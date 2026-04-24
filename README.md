@@ -17,7 +17,7 @@ Features: Glucosa, IMC, Edad, Historial familiar, Presión arterial
 mediante train_test_split (80% entrenamiento / 20% prueba)
 
 ## Notebook
-Ver en Kaggle: [link de tu notebook]
+Ver en Kaggle: [(https://www.kaggle.com/code/sebastianmamani2004/sebastian-mamani-diabetes-first-ml-model)]
 
 ## Autor
 Sebastian Guillermo Mamani Guillén  
